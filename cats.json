@@ -1,0 +1,227 @@
+[
+  {
+    "id": "cat_001",
+    "breed_name": "Siamese",
+    "origin": "Thailand",
+    "temperament": ["Affectionate", "Vocal", "Active", "Social"],
+    "physical_characteristics": {
+      "coat_length": "Short",
+      "body_type": "Elongated, muscular",
+      "eye_colour": "Deep blue",
+      "average_weight_kg": { "min": 3.5, "max": 5.5 }
+    },
+    "lifespan_years": { "min": 12, "max": 20 },
+    "hypoallergenic": false,
+    "popularity_rank": 12
+  },
+  {
+    "id": "cat_002",
+    "breed_name": "Maine Coon",
+    "origin": "United States",
+    "temperament": ["Gentle", "Friendly", "Intelligent", "Playful"],
+    "physical_characteristics": {
+      "coat_length": "Long",
+      "body_type": "Large, heavy-boned",
+      "eye_colour": "Green, gold, or copper",
+      "average_weight_kg": { "min": 5.0, "max": 11.0 }
+    },
+    "lifespan_years": { "min": 10, "max": 13 },
+    "hypoallergenic": false,
+    "popularity_rank": 2
+  },
+  {
+    "id": "cat_003",
+    "breed_name": "Sphynx",
+    "origin": "Canada",
+    "temperament": ["Energetic", "Curious", "Clownish", "Loud"],
+    "physical_characteristics": {
+      "coat_length": "Hairless",
+      "body_type": "Medium, sturdy",
+      "eye_colour": "Various",
+      "average_weight_kg": { "min": 3.0, "max": 6.0 }
+    },
+    "lifespan_years": { "min": 9, "max": 15 },
+    "hypoallergenic": true,
+    "popularity_rank": 10
+  },
+  {
+    "id": "cat_004",
+    "breed_name": "Bengal",
+    "origin": "United States",
+    "temperament": ["Highly active", "Confident", "Alert", "Demanding"],
+    "physical_characteristics": {
+      "coat_length": "Short (spotted/marbled)",
+      "body_type": "Large, athletic",
+      "eye_colour": "Green, yellow, or blue-green",
+      "average_weight_kg": { "min": 4.0, "max": 8.0 }
+    },
+    "lifespan_years": { "min": 12, "max": 16 },
+    "hypoallergenic": true,
+    "popularity_rank": 5
+  },
+  {
+    "id": "cat_005",
+    "breed_name": "Ragdoll",
+    "origin": "United States",
+    "temperament": ["Calm", "Docile", "Quiet", "Loving"],
+    "physical_characteristics": {
+      "coat_length": "Semi-long",
+      "body_type": "Large, solid",
+      "eye_colour": "Blue",
+      "average_weight_kg": { "min": 4.5, "max": 9.0 }
+    },
+    "lifespan_years": { "min": 12, "max": 15 },
+    "hypoallergenic": false,
+    "popularity_rank": 1
+  },
+  {
+    "id": "cat_006",
+    "breed_name": "Persian",
+    "origin": "Iran",
+    "temperament": ["Quiet", "Sweet", "Placid", "Sedate"],
+    "physical_characteristics": {
+      "coat_length": "Long",
+      "body_type": "Stocky, cobby",
+      "eye_colour": "Copper, blue, or green",
+      "average_weight_kg": { "min": 3.0, "max": 5.5 }
+    },
+    "lifespan_years": { "min": 10, "max": 17 },
+    "hypoallergenic": false,
+    "popularity_rank": 4
+  },
+  {
+    "id": "cat_007",
+    "breed_name": "British Shorthair",
+    "origin": "United Kingdom",
+    "temperament": ["Easygoing", "Calm", "Independent", "Patient"],
+    "physical_characteristics": {
+      "coat_length": "Short, dense",
+      "body_type": "Chunky, compact",
+      "eye_colour": "Deep copper, orange, or blue",
+      "average_weight_kg": { "min": 4.0, "max": 8.0 }
+    },
+    "lifespan_years": { "min": 12, "max": 20 },
+    "hypoallergenic": false,
+    "popularity_rank": 3
+  },
+  {
+    "id": "cat_008",
+    "breed_name": "Abyssinian",
+    "origin": "Ethiopia",
+    "temperament": ["Active", "Intelligent", "Inquisitive", "Playful"],
+    "physical_characteristics": {
+      "coat_length": "Short (ticked)",
+      "body_type": "Lithe, elegant",
+      "eye_colour": "Green or gold",
+      "average_weight_kg": { "min": 3.0, "max": 5.0 }
+    },
+    "lifespan_years": { "min": 12, "max": 15 },
+    "hypoallergenic": false,
+    "popularity_rank": 9
+  },
+  {
+    "id": "cat_009",
+    "breed_name": "Scottish Fold",
+    "origin": "United Kingdom",
+    "temperament": ["Sweet", "Loving", "Adaptable", "Soft-spoken"],
+    "physical_characteristics": {
+      "coat_length": "Short or long",
+      "body_type": "Medium, rounded",
+      "eye_colour": "Gold, green, or blue",
+      "average_weight_kg": { "min": 3.0, "max": 6.0 }
+    },
+    "lifespan_years": { "min": 11, "max": 15 },
+    "hypoallergenic": false,
+    "popularity_rank": 8
+  },
+  {
+    "id": "cat_010",
+    "breed_name": "Russian Blue",
+    "origin": "Russia",
+    "temperament": ["Reserved", "Intelligent", "Gentle", "Quiet"],
+    "physical_characteristics": {
+      "coat_length": "Short, double coat",
+      "body_type": "Fine-boned, long",
+      "eye_colour": "Vivid green",
+      "average_weight_kg": { "min": 3.5, "max": 7.0 }
+    },
+    "lifespan_years": { "min": 15, "max": 20 },
+    "hypoallergenic": true,
+    "popularity_rank": 14
+  },
+  {
+    "id": "cat_011",
+    "breed_name": "Norwegian Forest Cat",
+    "origin": "Norway",
+    "temperament": ["Friendly", "Independent", "Athletic", "Gentle"],
+    "physical_characteristics": {
+      "coat_length": "Long, water-resistant",
+      "body_type": "Large, heavily built",
+      "eye_colour": "Green or gold",
+      "average_weight_kg": { "min": 4.5, "max": 9.0 }
+    },
+    "lifespan_years": { "min": 14, "max": 16 },
+    "hypoallergenic": false,
+    "popularity_rank": 13
+  },
+  {
+    "id": "cat_012",
+    "breed_name": "Devon Rex",
+    "origin": "United Kingdom",
+    "temperament": ["Mischievous", "Affectionate", "Active", "Silly"],
+    "physical_characteristics": {
+      "coat_length": "Short, rippled wave",
+      "body_type": "Slender, large ears",
+      "eye_colour": "Various",
+      "average_weight_kg": { "min": 2.5, "max": 4.5 }
+    },
+    "lifespan_years": { "min": 9, "max": 15 },
+    "hypoallergenic": true,
+    "popularity_rank": 6
+  },
+  {
+    "id": "cat_013",
+    "breed_name": "Burmese",
+    "origin": "Myanmar",
+    "temperament": ["People-oriented", "Playful", "Energetic", "Vocal"],
+    "physical_characteristics": {
+      "coat_length": "Short, satin-like",
+      "body_type": "Medium, compact, heavy",
+      "eye_colour": "Yellow or gold",
+      "average_weight_kg": { "min": 3.5, "max": 6.5 }
+    },
+    "lifespan_years": { "min": 10, "max": 16 },
+    "hypoallergenic": false,
+    "popularity_rank": 15
+  },
+  {
+    "id": "cat_014",
+    "breed_name": "Oriental Shorthair",
+    "origin": "United States",
+    "temperament": ["Talkative", "Demanding", "Social", "Intelligent"],
+    "physical_characteristics": {
+      "coat_length": "Short",
+      "body_type": "Svelte, angular",
+      "eye_colour": "Green",
+      "average_weight_kg": { "min": 3.0, "max": 5.5 }
+    },
+    "lifespan_years": { "min": 12, "max": 15 },
+    "hypoallergenic": true,
+    "popularity_rank": 11
+  },
+  {
+    "id": "cat_015",
+    "breed_name": "Birman",
+    "origin": "Myanmar",
+    "temperament": ["Docile", "Loving", "Gentle", "Quiet"],
+    "physical_characteristics": {
+      "coat_length": "Semi-long, silky",
+      "body_type": "Stocky, heavy-boned",
+      "eye_colour": "Deep blue",
+      "average_weight_kg": { "min": 3.0, "max": 6.5 }
+    },
+    "lifespan_years": { "min": 12, "max": 16 },
+    "hypoallergenic": false,
+    "popularity_rank": 7
+  }
+]

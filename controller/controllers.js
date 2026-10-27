@@ -1,0 +1,1 @@
+const Fruit = require('../model/models')
